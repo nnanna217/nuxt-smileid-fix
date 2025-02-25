@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Users/nnannaeze/Smile ID test/nuxt-smileid-fix/nuxt-smileid-fix/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/Users/nnannaeze/Smile ID test/nuxt-smileid-fix/nuxt-smileid-fix/node_modules/nuxt/dist/app/entry.js"
+  }
+}
